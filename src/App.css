@@ -1,0 +1,18 @@
+.course-goals h2 {
+    text-align: center;
+    color: #4a90e2;
+  }
+  .goal-list {
+    list-style: none;
+    margin: 2rem auto;
+    padding: 0;
+  }
+  
+  .goal-list li{
+    margin: 0.5rem 0;
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
